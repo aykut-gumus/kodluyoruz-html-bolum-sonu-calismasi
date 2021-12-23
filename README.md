@@ -2,6 +2,10 @@
 
 ![1_rNWiroF7NmHQnVxVeHhaqQ (1)](https://user-images.githubusercontent.com/79155927/147277724-f6024a99-0501-41f8-bd5f-e6dc0b7c4356.png)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79155927/147277724-f6024a99-0501-41f8-bd5f-e6dc0b7c4356.png" />
+</p>
+
 # kodluyoruz-html-bolum-sonu-calismasi
 
 
