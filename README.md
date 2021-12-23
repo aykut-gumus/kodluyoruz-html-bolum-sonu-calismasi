@@ -2,4 +2,4 @@
 
 # kodluyoruz-html-bolum-sonu-calismasi
 
-![logo-one](https://user-images.githubusercontent.com/79155927/147276482-efb353a9-738c-4ebc-b5c6-0080f6bb4c7d.png)
+![1_rNWiroF7NmHQnVxVeHhaqQ](https://user-images.githubusercontent.com/79155927/147276514-94ce0c2f-66e9-4218-ba36-4389275e6d70.png)
